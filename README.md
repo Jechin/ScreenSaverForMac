@@ -7,8 +7,6 @@ Some "Apple Style" Screen Saver
 
 ![image-20210506205215282](/Users/Jechin/Library/Application Support/typora-user-images/image-20210506205215282.png)
 
-[Download Address](https://fliqlo.com/screensaver/)
-
 ## [Motivation](https://github.com/soffes/Motivation)
 
 动态显示你的生日，可以在release中下载。
