@@ -5,7 +5,7 @@ Some "Apple Style" Screen Saver
 
 经典的翻页时钟，可以在release中下载。
 
-![image](https://github.com/Jechin/ScreenSaverForMac/blob/main/src/Brooklyn.png)
+![image](https://github.com/Jechin/ScreenSaverForMac/blob/main/src/Fliqlo.png)
 
 ## [Motivation](https://github.com/soffes/Motivation)
 
