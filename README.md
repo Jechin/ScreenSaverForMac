@@ -5,7 +5,7 @@ Some "Apple Style" Screen Saver
 
 经典的翻页时钟，可以在release中下载。
 
-![image-20210506205215282](/Users/Jechin/Library/Application Support/typora-user-images/image-20210506205215282.png)
+![image](https://github.com/Jechin/ScreenSaverForMac/blob/main/src/Brooklyn.png)
 
 ## [Motivation](https://github.com/soffes/Motivation)
 
@@ -13,13 +13,13 @@ Some "Apple Style" Screen Saver
 
 
 
-![image-20210506205235965](/Users/Jechin/Library/Application Support/typora-user-images/image-20210506205235965.png)
+![image-20210506205235965](https://github.com/Jechin/ScreenSaverForMac/blob/main/src/Motivation.png)
 
 ## [SadMac](https://github.com/st3fan/SadMacScreenSaver)
 
 由经典Macintosh开机失败的报错画面logo组成，可以在release下载。
 
-![IMG_7937](/Users/Jechin/Downloads/IMG_7937.JPG)
+![IMG_7937](https://github.com/Jechin/ScreenSaverForMac/blob/main/src/SadMac.JPG)
 
 
 
@@ -27,4 +27,4 @@ Some "Apple Style" Screen Saver
 
 各种奇奇怪怪的Apple logo组成，Saver很大，但是很好看。🤷‍♂️不知道出了什么问题，无法release，可以到以下[地址](https://github.com/pedrommcarrasco/Brooklyn)下载查看
 
-![image-20210506205814694](/Users/Jechin/Library/Application Support/typora-user-images/image-20210506205814694.png)
+![image](https://github.com/Jechin/ScreenSaverForMac/blob/main/src/Brooklyn.png)
