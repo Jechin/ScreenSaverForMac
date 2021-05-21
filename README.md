@@ -1,6 +1,10 @@
 # ScreenSaverForMac
 Some "Apple Style" Screen Saver
 
+## Installation
+
+双击.saver文件
+
 ## [Fliqlo(free)](https://fliqlo.com/screensaver/)
 
 经典的翻页时钟，可以在releasev1.0中下载。
